@@ -1,0 +1,74 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.mobiles:hover{
+  color: white;
+}
+
+.cables{
+  color: white;
+}
+
+.cables:hover{
+  color: black;
+}
+.prod{
+  background: #f0f0f5;
+}
+
+.card-body
+{
+  padding-left: 0!important;
+  padding-right: 0!important;
+}
+
+.imn{
+  transition: transform .3s;
+}
+.imn:hover{
+  transform: scale(1.2);
+}
+
+
+.im1
+{
+  background: rgba(255, 61, 54, 0.98);
+  transition: .3s; 
+}
+
+
+.im1:hover
+{
+  background:#333333;
+}
+
+.im2,.im3
+{
+  background: #ffffff;
+  transition:.3s;
+}
+.im2:hover,.im3:hover
+{
+  background: rgba(255, 61, 54, 0.98);
+}
+.im4
+{
+  background: #333333;
+  transition:.3s;
+}
+.im4:hover
+{
+  background: #ffffff;
+}
+.NM
+{
+  background: #ffffff;
+}
+
+#copy
+{
+  cursor: pointer;
+}
